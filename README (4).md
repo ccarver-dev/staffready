@@ -1,10 +1,10 @@
-# StaffReady
+# StaffNow
 
 ### Onboard. Train. Succeed.
 
 [View the live prototype](https://staffreadyv2.netlify.app/)
 
-StaffReady is a workforce-readiness platform created by **NextMethod Labs** to make employee onboarding clearer, progress more visible, and coaching more actionable.
+StaffNow is a workforce-readiness platform created by **NewMethods Lab** to make employee onboarding clearer, progress more visible, and coaching more actionable.
 
 It gives new employees a structured path from day one while helping leaders recognize confidence gaps, missed skills, and support needs before they become larger performance problems.
 
@@ -19,11 +19,11 @@ The result is often a costly cycle:
 3. Discover knowledge gaps too late
 4. Retrain, replace, and begin again
 
-StaffReady is designed to strengthen the part of that cycle businesses can control: how employees are taught, supported, evaluated, and prepared for the work.
+StaffNow is designed to strengthen the part of that cycle businesses can control: how employees are taught, supported, evaluated, and prepared for the work.
 
-## What StaffReady does
+## What StaffNow does
 
-StaffReady brings training content, learner progress, coaching feedback, resources, and readiness signals into one organized experience.
+StaffNow brings training content, learner progress, coaching feedback, resources, and readiness signals into one organized experience.
 
 ### For employees
 
@@ -55,7 +55,7 @@ StaffReady brings training content, learner progress, coaching feedback, resourc
 
 ## Example readiness areas
 
-StaffReady can be adapted to the skills that matter for each organization. A service or support environment might evaluate areas such as:
+StaffNow can be adapted to the skills that matter for each organization. A service or support environment might evaluate areas such as:
 
 - Product or service knowledge
 - System navigation
@@ -70,7 +70,7 @@ The goal is not to reduce an employee to a score. It is to combine progress, con
 
 ## Designed for real workplace training
 
-StaffReady can support:
+StaffNow can support:
 
 - Call centers with frequent hiring and high turnover
 - Customer service and sales teams
@@ -80,7 +80,7 @@ StaffReady can support:
 
 ## Product philosophy
 
-StaffReady is built around a few practical beliefs:
+StaffNow is built around a few practical beliefs:
 
 - Employees perform better when expectations and next steps are clear.
 - Confidence and accuracy should be examined together, not treated as the same thing.
@@ -90,7 +90,7 @@ StaffReady is built around a few practical beliefs:
 
 ## Current status
 
-StaffReady is currently an interactive prototype demonstrating the learner and leadership experiences, training organization, readiness tracking, and coaching workflow.
+StaffNow is currently an interactive prototype demonstrating the learner and leadership experiences, training organization, readiness tracking, and coaching workflow.
 
 The current prototype does **not** directly connect to external CRM, email, telephony, reservation, or enterprise platforms. Resources such as LMS pages, internal knowledge articles, SharePoint content, training videos, and larger files can be organized through links.
 
@@ -98,9 +98,9 @@ Future implementations can be adapted around a business's roles, skills, termino
 
 ## About NextMethod Labs
 
-**NextMethod Labs** builds practical tools for process improvement, training development, and workplace problem-solving. The focus is simple: understand how the work actually happens, find where people are getting stuck, and design a clearer method forward.
+**NewMethods Lab** builds practical tools for process improvement, training development, and workplace problem-solving. The focus is simple: understand how the work actually happens, find where people are getting stuck, and design a clearer method forward.
 
-StaffReady was created as a practical response to a common business problem—organizations often invest heavily in finding people, but lack a clear system for preparing and supporting them once they arrive.
+StaffNow was created as a practical response to a common business problem—organizations often invest heavily in finding people, but lack a clear system for preparing and supporting them once they arrive.
 
 Learn more at [NextMethod Labs](https://nextmethod-labs.netlify.app/).
 
